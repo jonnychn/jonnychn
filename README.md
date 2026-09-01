@@ -30,7 +30,9 @@ These days, I am especially interested in what happens when marketers stop treat
 | Project | What it does |
 | --- | --- |
 | [Webinar Retention](https://github.com/jonnychn/webinar-retention) | Visualizes where audiences stay engaged or drop off during webinars and timed sessions. |
-| [Speedplay](https://github.com/jonnychn/speedplay) | A Chrome extension for changing video playback speed across websites. |
+| [TimePair](https://timepair.vercel.app/) | Looks up and compares times across different time zones. |
+| [Carousel Generator](https://carouselgenerator101.vercel.app/) | Creates Instagram and LinkedIn carousels in square, portrait, or landscape formats. |
+| [Air Flowchart](https://airflowchart.vercel.app/) | A gesture-controlled flowchart canvas with local webcam tracking and PNG or JSON export. |
 | [QR Code Generator](https://github.com/jonnychn/qrcode) | Creates scan-safe QR codes with UTM tracking, logo support, and image export. |
 | [Compound](https://github.com/jonnychn/compound-interest-calculator) | A simple compound-interest calculator for exploring deposits, rates, and time. |
 | [Flare](https://github.com/jonnychn/flare) | Turns a phone screen into a compact emergency or atmospheric light. |
@@ -56,4 +58,3 @@ I also prototype private tools for marketing operations, content workflows, priv
 ## Elsewhere
 
 The best place to learn more about my professional work or get in touch is [LinkedIn](https://www.linkedin.com/in/jonnychn/).
-
