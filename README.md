@@ -4,7 +4,7 @@
 
 **Growth operator, agentic marketer, and hands-on builder**
 
-I build growth systems, AI-assisted workflows, and small useful software.
+I build growth systems, AI-assisted workflows, and small useful software. My approach is AI-native: clear product direction, AI-assisted execution, and evidence that the result works.
 
 [LinkedIn](https://www.linkedin.com/in/jonnychn/) · [GitHub](https://github.com/jonnychn)
 
@@ -29,6 +29,7 @@ These days, I am especially interested in what happens when marketers stop treat
 
 | Project | What it does |
 | --- | --- |
+| [AudioGo](https://audiogo.vercel.app/) · [Source](https://github.com/jonnychn/audiogo) | Converts audio and extracts audio from video, entirely on your device. Built with Codex; automated checks cover 108 input/output combinations. |
 | [Webinar Retention](https://github.com/jonnychn/webinar-retention) | Visualizes where audiences stay engaged or drop off during webinars and timed sessions. |
 | [TimePair](https://timepair.vercel.app/) | Looks up and compares times across different time zones. |
 | [Carousel Generator](https://carouselgenerator101.vercel.app/) | Creates Instagram and LinkedIn carousels in square, portrait, or landscape formats. |
@@ -38,6 +39,12 @@ These days, I am especially interested in what happens when marketers stop treat
 | [Flare](https://github.com/jonnychn/flare) | Turns a phone screen into a compact emergency or atmospheric light. |
 
 I also prototype private tools for marketing operations, content workflows, privacy-first utilities, and connected hardware. I keep those repositories private when they contain personal data, credentials, unpublished work, or client-specific context.
+
+## AI-native building in practice
+
+**AudioGo: from a simple request to a deployed product.** I defined the initial conversion workflow and minimal visual direction, then expanded the brief to support common audio formats. I used Codex as a development partner for implementation, debugging, automated testing, and deployment to GitHub and Vercel.
+
+The result supports 12 input formats and 9 output formats, with files staying on the user's device. Its [automated tests](https://github.com/jonnychn/audiogo/blob/main/scripts/test-formats.mjs) check all 108 combinations for the expected codec, duration, and non-silent output; separate worker tests cover loading and cancellation. The stack is React, TypeScript, and FFmpeg WebAssembly. [Try the app](https://audiogo.vercel.app/) or [inspect the code](https://github.com/jonnychn/audiogo).
 
 ## How I work
 
